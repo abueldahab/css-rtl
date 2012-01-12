@@ -1,0 +1,15 @@
+
+# css-rtl.pl - a CSS LTR ? RTL converter
+# Copyright Ahmad AlTwaijiry 2011 (Inspired by r2 https://github.com/ded/r2)
+# https://github.com/mrahmadt/
+# License MIT
+
+Simple script to convert any normal CSS file (left to right direction) to RTL (right to left direction).
+
+
+To use the script:
+
+./css-rtl.pl INPUT-CSS-FILE.CSS         <--- this will print the changes to STDOUT
+
+
+./css-rtl.pl INPUT-CSS-FILE.CSS OUTPUT-CSS-FILE.CSS     <--- save changes to the file OUTPUT-CSS-FILE.CSS
